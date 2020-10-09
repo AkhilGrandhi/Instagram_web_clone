@@ -202,6 +202,87 @@ function App() {
           }
         </div>
         <div className="app__postRight">
+        
+
+
+        <InstagramEmbed
+            url='https://www.instagram.com/tv/B-O-wNMDOmv/?utm_source=ig_web_copy_link'
+            maxWidth={320}
+            hideCaption={false}
+            containerTagName='div'
+            protocol=''
+            injectScript
+            onLoading={() => {}}
+            onSuccess={() => {}}
+            onAfterRender={() => {}}
+            onFailure={() => {}}
+         />  
+
+        <InstagramEmbed
+            url='https://www.instagram.com/tv/CEMK1wcFF0K/?utm_source=ig_web_copy_link'
+            maxWidth={320}
+            hideCaption={false}
+            containerTagName='div'
+            protocol=''
+            injectScript
+            onLoading={() => {}}
+            onSuccess={() => {}}
+            onAfterRender={() => {}}
+            onFailure={() => {}}
+         />  
+
+        <InstagramEmbed
+            url='https://www.instagram.com/p/B_cYTlBJ0IJ/?utm_source=ig_web_copy_link'
+            maxWidth={320}
+            hideCaption={false}
+            containerTagName='div'
+            protocol=''
+            injectScript
+            onLoading={() => {}}
+            onSuccess={() => {}}
+            onAfterRender={() => {}}
+            onFailure={() => {}}
+         />  
+
+
+        <InstagramEmbed
+            url='https://www.instagram.com/p/CADylw1JITY/?utm_source=ig_web_copy_link'
+            maxWidth={320}
+            hideCaption={false}
+            containerTagName='div'
+            protocol=''
+            injectScript
+            onLoading={() => {}}
+            onSuccess={() => {}}
+            onAfterRender={() => {}}
+            onFailure={() => {}}
+         />  
+
+        <InstagramEmbed
+            url='https://www.instagram.com/tv/CAqODpDJS6V/?utm_source=ig_web_copy_link'
+            maxWidth={320}
+            hideCaption={false}
+            containerTagName='div'
+            protocol=''
+            injectScript
+            onLoading={() => {}}
+            onSuccess={() => {}}
+            onAfterRender={() => {}}
+            onFailure={() => {}}
+            />
+
+         <InstagramEmbed
+            url='https://www.instagram.com/tv/CBuoyuXpqx4/?utm_source=ig_web_copy_link'
+            maxWidth={320}
+            hideCaption={false}
+            containerTagName='div'
+            protocol=''
+            injectScript
+            onLoading={() => {}}
+            onSuccess={() => {}}
+            onAfterRender={() => {}}
+            onFailure={() => {}}
+            />
 
           <InstagramEmbed
             url='https://www.instagram.com/tv/CF_W_E5F58x/?utm_source=ig_web_copy_link'
